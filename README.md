@@ -11,8 +11,9 @@ Pygments (http://pygments.org)
 
 ## Install
 	
-Create ~/.lessmore, copy stuff there.
+Create `~/.lessmore`, copy stuff there.
 Source from your init scripts, e.g. `~/.zshrc`:
+	
 	source ~/.lessmore/lessmore.sh
 
 
